@@ -7,3 +7,4 @@ def update_to_premium(self, username):
         print(f"\nPaskyra su slapyvardžiu '{username}' nerasta.\n")
         return None
 ```
++jkfjds
