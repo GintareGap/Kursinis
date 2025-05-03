@@ -1,0 +1,106 @@
+Vartotojas: Ona Onaitė
+Slapyvardis: super_ona
+Paskyros tipas: Premium
+Prisijungė: 2022-05-20
+Draugų skaičius: 2
+Draugų sarašas:
+1. Emma_xo
+2. Hey_Dom
+
+========================================
+Vartotojas: Petras Petraitis
+Slapyvardis: petras123
+Paskyros tipas: Standart
+Prisijungė: 2023-02-10
+Draugų skaičius: 0
+Draugų sarašas:
+
+========================================
+Vartotojas: Tomas Tomaitis
+Slapyvardis: tom.tom
+Paskyros tipas: Premium
+Prisijungė: 2020-03-05
+Draugų skaičius: 2
+Draugų sarašas:
+1. jonukas
+2. Emma_xo
+
+========================================
+Vartotojas: Ema Emaite
+Slapyvardis: Emma_xo
+Paskyros tipas: Standart
+Prisijungė: 2025-02-10
+Draugų skaičius: 5
+Draugų sarašas:
+1. jonukas
+2. tom.tom
+3. super_ona
+4. Rutele54
+5. Hey_Dom
+
+========================================
+Vartotojas: Ruta Rutaite
+Slapyvardis: Rutele54
+Paskyros tipas: Premium
+Prisijungė: 2024-11-05
+Draugų skaičius: 1
+Draugų sarašas:
+1. Emma_xo
+
+========================================
+Vartotojas: Emilija Emilaite
+Slapyvardis: Emilai
+Paskyros tipas: Standart
+Prisijungė: 2020-06-25
+Draugų skaičius: 1
+Draugų sarašas:
+1. Hey_Dom
+
+========================================
+Vartotojas: Domas Domaitis
+Slapyvardis: Hey_Dom
+Paskyros tipas: Premium
+Prisijungė: 2023-05-12
+Draugų skaičius: 3
+Draugų sarašas:
+1. Emma_xo
+2. super_ona
+3. Emilai
+
+========================================
+Vartotojas: Jonas Jonaitis
+Slapyvardis: jonukas
+Paskyros tipas: Premium
+Prisijungė: 2023-01-15
+Draugų skaičius: 2
+Draugų sarašas:
+1. Emma_xo
+2. tom.tom
+
+========================================
+
+Premium paskyros:
+1.super_ona (Ona Onaitė)
+2.tom.tom (Tomas Tomaitis)
+3.Rutele54 (Ruta Rutaite)
+4.Hey_Dom (Domas Domaitis)
+5.jonukas (Jonas Jonaitis)
+
+========================================
+
+Standart paskyros:
+1.petras123 (Petras Petraitis)
+2.Emma_xo (Ema Emaite)
+3.Emilai (Emilija Emilaite)
+
+========================================
+
+Visos paskyros:
+1.super_ona (Ona Onaitė)
+2.petras123 (Petras Petraitis)
+3.tom.tom (Tomas Tomaitis)
+4.Emma_xo (Ema Emaite)
+5.Rutele54 (Ruta Rutaite)
+6.Emilai (Emilija Emilaite)
+7.Hey_Dom (Domas Domaitis)
+8.jonukas (Jonas Jonaitis)

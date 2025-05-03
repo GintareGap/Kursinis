@@ -1,0 +1,8 @@
+Jonas,Jonaitis,jonukas,2023-01-15,Standart
+Ona,Onaitė,super_ona,2022-05-20,Premium
+Petras,Petraitis,petras123,2023-02-10,Standart
+Tomas,Tomaitis,tom.tom,2020-03-05,Premium
+Ema,Emaite,Emma_xo,2025-02-10,Standart
+Ruta,Rutaite,Rutele54,2024-11-05,Premium
+Emilija,Emilaite,Emilai,2020-06-25,Standart
+Domas,Domaitis,Hey_Dom,2023-05-12,Premium
